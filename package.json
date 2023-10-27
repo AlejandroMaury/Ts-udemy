@@ -1,0 +1,15 @@
+{
+  "name": "main-practice",
+  "version": "1.0.0",
+  "description": "practice about TS",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "lite-server"
+  },
+  "author": "Alejandro Arango",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "2.6.1"
+  }
+}
